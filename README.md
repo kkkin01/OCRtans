@@ -4,5 +4,8 @@
 Tesseractのpathだけ自分の環境に合わせて変更してください
 
 
-Uploading sample1.mp4…
+
+
+
+https://github.com/kkkin01/OCRtans/assets/87434914/31ea3478-6e9e-4a05-82ca-1439f432aa78
 
